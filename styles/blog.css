@@ -1,9 +1,9 @@
 .git{background-color: rgb(223, 199, 245);
 color: rgb(5, 24, 134);
-height: 150px;
+height: 130px;
 font-size: 17px;
 box-shadow:10px 10px 10px rgb(111, 218, 245);
 border-radius: 10px;
-padding: 10px;
+padding: 10px;text-align: center;
 }
-.head{color: blueviolet;}
+.head{color: blueviolet;text-align: center}

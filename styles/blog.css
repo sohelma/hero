@@ -1,4 +1,5 @@
-.git{background-color: blueviolet;
-color: red;
-height: 600px;
+.git{background-color: rgb(223, 199, 245);
+color: rgb(5, 24, 134);
+height: 400px;
+box-shadow:10px solid 10px tomato;
 }
